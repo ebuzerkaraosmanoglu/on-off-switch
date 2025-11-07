@@ -1,2 +1,1 @@
-# on-off-switch
-On Off Switch
+Tak çalıştır switch
